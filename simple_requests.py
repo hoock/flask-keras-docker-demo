@@ -16,4 +16,4 @@ if r["success"]:
 
 # otherwise, the request failed
 else:
-    print("Request failed")
+    print("Request failed, image not found")
